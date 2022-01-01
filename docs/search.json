@@ -6,15 +6,23 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-01T17:09:57+00:00"
+      "last_modified": "2022-01-01T17:33:31+00:00"
+    },
+    {
+      "path": "field_guides.html",
+      "title": "Field guides to Senegal's fauna",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBirds\nThe standard\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-01-01T17:33:32+00:00"
     },
     {
       "path": "index.html",
-      "title": "virage_website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Paul Robinson",
+      "description": "Conservation biologist and applied statistician  \n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-01T17:09:57+00:00"
+      "last_modified": "2022-01-01T17:33:32+00:00"
     }
   ],
   "collections": []
